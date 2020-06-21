@@ -23,8 +23,8 @@ Repositório voltado a prática da ATM primeiro semestre 2020
   Com o banco em si criado, foi feita a construção das tabelas referentes a cada uma das entidades levantadas no começo da abstração do projeto, e em seguida foi aplicada uma pequena massa de dados para cada uma destas mesmas tabelas, para poder fazer alguns scripts de teste como consultas, inserções de dados e também atualizações e/ou deleções de registros.
   Desta forma foi abordado o conceito em Sql de DDL e DML, onde: 
   <ul>
-   <li> * DDL é um segmento da linguagem Sql, responsável pelos comandos que manipulam os objetos relacionados ao banco, como tabelas e o     próprio banco em si, fazendo a criação, atualização, inserção e deleção dos mesmos. Exemplos de comandos para DDL: ALTER, CREATE, DROP;</li>  
-    <li>* DML é o outro segmento do Sql, mas fica encarregado pelos scrips referentes a manipulação dos dados, dos registros que estão ou vão ser armazenados na base, inserindo, atualizando, deletando ou consultando estes dados. São exemplos de DML, INSERT, SELECT, DELETE, UPDATE.</li>
+   <li>DDL é um segmento da linguagem Sql, responsável pelos comandos que manipulam os objetos relacionados ao banco, como tabelas e o     próprio banco em si, fazendo a criação, atualização, inserção e deleção dos mesmos. Exemplos de comandos para DDL: ALTER, CREATE, DROP;</li>  
+    <li>DML é o outro segmento do Sql, mas fica encarregado pelos scrips referentes a manipulação dos dados, dos registros que estão ou vão ser armazenados na base, inserindo, atualizando, deletando ou consultando estes dados. São exemplos de DML, INSERT, SELECT, DELETE, UPDATE.</li>
   </ul>
     
  # Conclusão
