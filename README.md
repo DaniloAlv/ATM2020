@@ -4,9 +4,9 @@ Repositório voltado a prática da ATM primeiro semestre 2020
 # Sumário
 <ul>
   <li><a href="https://github.com/DaniloAlv/ATM2020#resumo">Resumo</a></li>
-  <li><a href="https://github.com/DaniloAlv/ATM2020#introducao">Introdução</a></li>
+  <li><a href="https://github.com/DaniloAlv/ATM2020#introdução">Introdução</a></li>
   <li><a href="https://github.com/DaniloAlv/ATM2020#desenvolvimento">Desenvolvimento</a></li>
-  <li><a href="https://github.com/DaniloAlv/ATM2020#conclusao">Conclusão</a></li>
+  <li><a href="https://github.com/DaniloAlv/ATM2020#conclusão">Conclusão</a></li>
 </ul>
 
 # Resumo
