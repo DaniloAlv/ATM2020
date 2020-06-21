@@ -9,13 +9,6 @@ Repositório voltado a prática da ATM primeiro semestre 2020
 
   O projeto tem como objetivo controlar a entrega de horas dos alunos da universidade, em relação as atividades complementares, tendo salva suas horas em base de dados MySql.
   
-# Sumário
-
-  Resumo 
-  Introdução
-  Desenvolvimento
-  Conclusão
-  
 # Desenvolvimento
 
   O projeto em si, nessa primeira instância, se baseou na construção de uma base de dados, através do Workbench do MySql 8.0, utilizando MySql Server 8.0. Foi realizada a construção de um diagrama que constam as tabelas que irão complementar as funcionalidades do banco, montado todas as suas relações entre cada uma dessas entidades.
