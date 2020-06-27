@@ -1,21 +1,31 @@
 # ATM2020
 Repositório voltado a prática da ATM primeiro semestre 2020
 
-# Resumo
+## Sumário
+<ul>
+  <li><a href="https://github.com/DaniloAlv/ATM2020#resumo">Resumo</a></li>
+  <li><a href="https://github.com/DaniloAlv/ATM2020#introdução">Introdução</a></li>
+  <li><a href="https://github.com/DaniloAlv/ATM2020#desenvolvimento">Desenvolvimento</a></li>
+  <li><a href="https://github.com/DaniloAlv/ATM2020#conclusão">Conclusão</a></li>
+</ul>
+
+## Resumo
 
   Como ideia inicial do projeto, foi iniciada a criação de uma base de dados para que possa ter o controle e armazenamento de informações referentes a entrega de Atividades Complementares dos alunos da faculdade. A ideia é que mediante a cadastro e identificação do aluno, será possível registrar as horas de cada, onde futuramente, a ideia é que esse sistema evolua para algo mais visual, tendo uma WebApi para controlar o fluxo de requisições e acessar a base de dados e também um ambiente de interação com o usuário, através de um sistema web, para que o usuário consiga acessar sua conta, sendo ele professor ou aluno, para gerenciar o controle das horas complementares.
   
-# Introdução
+## Introdução
 
   O projeto tem como objetivo controlar a entrega de horas dos alunos da universidade, em relação as atividades complementares, tendo salva suas horas em base de dados MySql.
   
-# Desenvolvimento
+## Desenvolvimento
 
   O projeto em si, nessa primeira instância, se baseou na construção de uma base de dados, através do Workbench do MySql 8.0, utilizando MySql Server 8.0. Foi realizada a construção de um diagrama que constam as tabelas que irão complementar as funcionalidades do banco, montado todas as suas relações entre cada uma dessas entidades.
   Com o banco em si criado, foi feita a construção das tabelas referentes a cada uma das entidades levantadas no começo da abstração do projeto, e em seguida foi aplicada uma pequena massa de dados para cada uma destas mesmas tabelas, para poder fazer alguns scripts de teste como consultas, inserções de dados e também atualizações e/ou deleções de registros.
   Desta forma foi abordado o conceito em Sql de DDL e DML, onde: 
-    * DDL é um segmento da linguagem Sql, responsável pelos comandos que manipulam os objetos relacionados ao banco, como tabelas e o     próprio banco em si, fazendo a criação, atualização, inserção e deleção dos mesmos. Exemplos de comandos para DDL: ALTER, CREATE, DROP;
-    * DML é o outro segmento do Sql, mas fica encarregado pelos scrips referentes a manipulação dos dados, dos registros que estão ou vão ser armazenados na base, inserindo, atualizando, deletando ou consultando estes dados. São exemplos de DML, INSERT, SELECT, DELETE, UPDATE.
+  <ul>
+   <li>DDL é um segmento da linguagem Sql, responsável pelos comandos que manipulam os objetos relacionados ao banco, como tabelas e o     próprio banco em si, fazendo a criação, atualização, inserção e deleção dos mesmos. Exemplos de comandos para DDL: ALTER, CREATE, DROP;</li>  
+    <li>DML é o outro segmento do Sql, mas fica encarregado pelos scrips referentes a manipulação dos dados, dos registros que estão ou vão ser armazenados na base, inserindo, atualizando, deletando ou consultando estes dados. São exemplos de DML, INSERT, SELECT, DELETE, UPDATE.</li>
+  </ul>
     
  # Conclusão
  
